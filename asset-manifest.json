@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fitness-app-react/static/css/main.ae805396.css",
+    "main.js": "/fitness-app-react/static/js/main.7ede6aa3.js",
+    "static/media/weight.png": "/fitness-app-react/static/media/weight.0777f86bb61b80fba8ac.png",
+    "static/media/squat.png": "/fitness-app-react/static/media/squat.71ccf582dd5fd772e9b3.png",
+    "static/media/grapefruit.jpg": "/fitness-app-react/static/media/grapefruit.bf091365ca5661e9cfac.jpg",
+    "static/media/bench.png": "/fitness-app-react/static/media/bench.bc7296a456174845e142.png",
+    "static/media/deadlift.png": "/fitness-app-react/static/media/deadlift.27a30197fbf5c0061c14.png",
+    "static/media/pullup.png": "/fitness-app-react/static/media/pullup.47b7861491fc7f435e71.png",
+    "index.html": "/fitness-app-react/index.html",
+    "main.ae805396.css.map": "/fitness-app-react/static/css/main.ae805396.css.map",
+    "main.7ede6aa3.js.map": "/fitness-app-react/static/js/main.7ede6aa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae805396.css",
+    "static/js/main.7ede6aa3.js"
+  ]
+}
